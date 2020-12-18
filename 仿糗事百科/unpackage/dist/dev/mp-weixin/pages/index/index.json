@@ -1,0 +1,7 @@
+{
+  "usingComponents": {
+    "index-list": "/components/index/index-list",
+    "index-tabbar": "/components/index/index-tabbar",
+    "load-more": "/components/common/load-more"
+  }
+}
